@@ -1,4 +1,4 @@
-# Classifying EEG Data using Neural Network Architectures 
+# Classifying EEG Data using Neural Network Architectures (ECE ENGR 247)
 In recent years, machine-learning techniques have been applied to electroencephalographic (EEG) datasets to extract features and apply models to various health settings. With recent advances in deep learning techniques, we want to see explore various neural network models to optimize the classification accuracy of the EEG data. Preprocessing and models such as CNNs, and RNNs were implemented over all subject and class data. A modest CNN model performed the highest accuracy of 84.7\%, with an improvement from 58.7\% after preprocessing and data generation using a variation autoencoder (VAE). 
 
 
