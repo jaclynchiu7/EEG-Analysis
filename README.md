@@ -18,4 +18,4 @@ Shallow CNN | 80.6\%
 RNN - LSTM | 78.8\% 
 RNN - GRU | 79.9\%
 ConvLSTM | 82.4\%
-ConvTRU | 82.7\%
+ConvGRU | 82.7\%
